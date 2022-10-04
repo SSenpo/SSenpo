@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/m9YWbV2vuiyvJbtyv1/giphy.gif" width="250"/>
 </div>
-Wellcome to my git! R2D2 salutes you ➡️
+Wellcome! R2D2 salutes you ➡️
 
 ---
 ### 🔵 About me :
